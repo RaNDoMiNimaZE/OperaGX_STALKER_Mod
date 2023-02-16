@@ -11,8 +11,9 @@ This mod add to your browser new:
 
 
 How to install ?
-! Ensure you have the latest browser update (opera://update) !
-1. Open Extensions view (opera:extensions)
-2. Enable Developer mode in top right corner
-3. Click Load unpacked and point to directory with manifest.json
-4. Loaded mod will shown in Mods view (opera:mods)
+1. Ensure you have the latest browser update (opera://update)
+2. Download and unpuck mod in any directory
+3. Open Extensions view (opera:extensions)
+4. Enable Developer mode in top right corner
+5. Click Load unpacked and point to mod directory with manifest.json
+6. Loaded mod will shown in Mods view (opera:mods)
